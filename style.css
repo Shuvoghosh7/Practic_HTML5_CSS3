@@ -1,0 +1,14 @@
+.audio_video{
+    display: flex;
+    width: 50%;
+}
+.video{
+    width: 50%;
+    padding-left: 300px;
+}
+.audio{
+    padding-top: 100px;
+}
+h1{
+    text-align: center;
+}
